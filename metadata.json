@@ -1,0 +1,6 @@
+{
+  "name": "Controle Remoto Philco Virtual",
+  "description": "Controle virtual interativo para TV Philco com modelos Roku, Android TV e Clássico, simulador de TV em tempo real, teclado, touchpad e atalhos de streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
